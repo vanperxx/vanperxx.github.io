@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>测试台架所需要的元素</title>
+      <link href="/2022/05/22/%E6%B5%8B%E8%AF%95%E5%8F%B0%E6%9E%B6%E6%89%80%E9%9C%80%E5%85%83%E7%B4%A0/"/>
+      <url>/2022/05/22/%E6%B5%8B%E8%AF%95%E5%8F%B0%E6%9E%B6%E6%89%80%E9%9C%80%E5%85%83%E7%B4%A0/</url>
+      
+        <content type="html"><![CDATA[<p>This page lists the necessary elements that an automotive test bench shall&#x2F;must have.<br>This page takes Kratzer test bench as an example.</p><span id="more"></span><p>##接口</p><ul><li><ul><li><p>数据采集</p></li><li><ul><li></li></ul></li><li><p>通讯协议接口</p></li></ul></li><li><p>通讯协议</p></li><li><p>下位机（real-time      system)</p></li><li><ul><li>稳定（长周期循环不崩）</li><li>易于更新和复位</li></ul></li><li><p>上位机</p></li><li><ul><li><p>测量（不同频率、记录变量定义）</p></li><li><p>用户自定义</p></li><li><ul><li>易拓展（比如自定义一个SOC&#x2F;T的快充表格）</li></ul></li><li><p>外设控制时序自定义</p></li><li><ul><li>温箱、水冷、充放电机，可同时控制，也可以单独控制</li><li>支持并联控制</li><li>主程序可以同步调用不同的外设</li></ul></li><li><p>可模拟自动化脚本（加速仿真），看程序是否有问题</p></li><li><p>不同类型的Driving       profile</p></li><li><p>程序支持暂停</p></li><li><p>程序支持断点恢复（报错后重开）（测试开始前询问）</p></li><li><p>程序支持跳步</p></li><li><p>Log易于定位问题</p></li><li><p>Online modification</p></li><li><p>Intermediate system which       can translate digital signals to different sub-system parts</p></li><li><p>Driving profile 跳出后能跳回跳出工步</p></li></ul></li><li><p>Optional     支持远程监控</p></li></ul><p>##电池包测试台架所需优势</p><ul><li>T90</li><li>易于切换大小电流（HEV&#x2F;EV)</li><li>IGBT耐用稳定</li><li>精度好</li><li>台架量程可调</li><li>温箱支持-45℃&#x2F;-50℃</li><li>设备和下位机之间通讯稳定(robustness)&#x2F;支持自重启</li><li>台架问题定位方便</li><li>温箱&#x2F;水冷 程序控制 (能够曲线输出-&gt;外设能跟得上）</li><li>绝缘监测与DUT隔离</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Test Automation </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test Bench </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Font Awesome简单使用心得</title>
       <link href="/2022/05/19/Font%20Awesome/"/>
       <url>/2022/05/19/Font%20Awesome/</url>
