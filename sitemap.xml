@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vanperxx.fun/2022/06/19/Standards%20for%20battery%20testing/</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vanperxx.fun/2022/05/22/Key%20elements%20for%20automotive%20testbench/</loc>
     
     <lastmod>2022-05-26</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>https://vanperxx.fun/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,21 +102,28 @@
   
   <url>
     <loc>https://vanperxx.fun/tags/Suppliers/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://vanperxx.fun/tags/Test-Bench/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <loc>https://vanperxx.fun/tags/Battery-Testing/</loc>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vanperxx.fun/tags/Blogs/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanperxx.fun/tags/Test-Bench/</loc>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -116,14 +132,21 @@
   
   <url>
     <loc>https://vanperxx.fun/categories/Test-Automation/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanperxx.fun/categories/Battery-Testing/</loc>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vanperxx.fun/categories/Blogs/</loc>
-    <lastmod>2022-05-26</lastmod>
+    <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
