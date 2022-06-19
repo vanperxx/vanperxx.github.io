@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://vanperxx.fun/2022/06/19/Standards%20for%20battery%20testing/</loc>
+    <loc>https://vanperxx.fun/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Battery%20Pack%20or%20System%20Safety/</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanperxx.fun/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Secondary%20Cell%20Safety/</loc>
     
     <lastmod>2022-06-19</lastmod>
     
@@ -101,6 +110,13 @@
 
   
   <url>
+    <loc>https://vanperxx.fun/tags/Blogs/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://vanperxx.fun/tags/Suppliers/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -109,13 +125,6 @@
   
   <url>
     <loc>https://vanperxx.fun/tags/Battery-Testing/</loc>
-    <lastmod>2022-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanperxx.fun/tags/Blogs/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -131,6 +140,13 @@
 
   
   <url>
+    <loc>https://vanperxx.fun/categories/Blogs/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://vanperxx.fun/categories/Test-Automation/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,13 +155,6 @@
   
   <url>
     <loc>https://vanperxx.fun/categories/Battery-Testing/</loc>
-    <lastmod>2022-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://vanperxx.fun/categories/Blogs/</loc>
     <lastmod>2022-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
