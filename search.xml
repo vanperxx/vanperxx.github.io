@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>Standards for Battery Testing - Battery Pack or System Safety</title>
-      <link href="/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Battery%20Pack%20or%20System%20Safety/"/>
-      <url>/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Battery%20Pack%20or%20System%20Safety/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>This series mainly focus on the important, mostly used standards (GB&#x2F;T, ISO, SAE, etc..) for battery testings.</p></blockquote><span id="more"></span><h2 id="GB-x2F-T-38031-2020"><a href="#GB-x2F-T-38031-2020" class="headerlink" title="GB&#x2F;T 38031-2020"></a>GB&#x2F;T 38031-2020</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Replacing GB/T 31485-2015 and GB/T 31467.3-2015</span><br></pre></td></tr></table></figure><p><strong>GB&#x2F;T 38031-2020: All technical contents of this standard are mandatory.</strong><br><span id="marker"></span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;Pre Conditioning&#125;</span><br><span class="line">a) 1/3C charge to Umax;</span><br><span class="line">b) keep still <span class="keyword">for</span> 30mins;</span><br><span class="line">c) 1/3C discharge to Umin;</span><br><span class="line">d) keep still <span class="keyword">for</span> 30mins;</span><br><span class="line">e) repeat a)~d) <span class="keyword">for</span> at most 5 <span class="built_in">times</span>;</span><br></pre></td></tr></table></figure><h3 id="Battery-Pack-or-System-Safety"><a href="#Battery-Pack-or-System-Safety" class="headerlink" title="Battery Pack or System Safety"></a>Battery Pack or System Safety</h3><h4 id="1-Vibration-Test"><a href="#1-Vibration-Test" class="headerlink" title="1. Vibration Test"></a>1. Vibration Test</h4>]]></content>
-      
-      
-      <categories>
-          
-          <category> Battery Testing </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Battery Testing </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Standards for Battery Testing - Secondary Cell Safety</title>
       <link href="/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Secondary%20Cell%20Safety/"/>
       <url>/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Secondary%20Cell%20Safety/</url>
@@ -54,11 +29,36 @@
     
     
     <entry>
+      <title>Standards for Battery Testing - Battery Pack or System Safety</title>
+      <link href="/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Battery%20Pack%20or%20System%20Safety/"/>
+      <url>/2022/06/19/Standards%20for%20Battery%20Testing%20-%20Battery%20Pack%20or%20System%20Safety/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>This series mainly focus on the important, mostly used standards (GB&#x2F;T, ISO, SAE, etc..) for battery testings.</p></blockquote><span id="more"></span><h2 id="GB-x2F-T-38031-2020"><a href="#GB-x2F-T-38031-2020" class="headerlink" title="GB&#x2F;T 38031-2020"></a>GB&#x2F;T 38031-2020</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Replacing GB/T 31485-2015 and GB/T 31467.3-2015</span><br></pre></td></tr></table></figure><p><strong>GB&#x2F;T 38031-2020: All technical contents of this standard are mandatory.</strong><br><span id="marker"></span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&#123;Pre Conditioning&#125;</span><br><span class="line">a) 1/3C charge to Umax;</span><br><span class="line">b) keep still <span class="keyword">for</span> 30mins;</span><br><span class="line">c) 1/3C discharge to Umin;</span><br><span class="line">d) keep still <span class="keyword">for</span> 30mins;</span><br><span class="line">e) repeat a)~d) <span class="keyword">for</span> at most 5 <span class="built_in">times</span>;</span><br></pre></td></tr></table></figure><h3 id="Battery-Pack-or-System-Safety"><a href="#Battery-Pack-or-System-Safety" class="headerlink" title="Battery Pack or System Safety"></a>Battery Pack or System Safety</h3><h4 id="1-Vibration-Test"><a href="#1-Vibration-Test" class="headerlink" title="1. Vibration Test"></a>1. Vibration Test</h4>]]></content>
+      
+      
+      <categories>
+          
+          <category> Battery Testing </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Battery Testing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试台架所需要的元素</title>
       <link href="/2022/05/22/Key%20elements%20for%20automotive%20testbench/"/>
       <url>/2022/05/22/Key%20elements%20for%20automotive%20testbench/</url>
       
-        <content type="html"><![CDATA[<p>This page is trying to list the necessary elements that an automated test bench shall&#x2F;must have.<br>This page takes Kratzer test bench as an example.</p><span id="more"></span><p>##Interface</p><ul><li><ul><li><p>数据采集</p></li><li><ul><li></li></ul></li><li><p>通讯协议接口</p></li></ul></li><li><p>通讯协议</p></li><li><p>下位机（real-time      system)</p></li><li><ul><li>稳定（长周期循环不崩）</li><li>易于更新和复位</li></ul></li><li><p>上位机</p></li><li><ul><li><p>测量（不同频率、记录变量定义）</p></li><li><p>用户自定义</p></li><li><ul><li>易拓展（比如自定义一个SOC&#x2F;T的快充表格）</li></ul></li><li><p>外设控制时序自定义</p></li><li><ul><li>温箱、水冷、充放电机，可同时控制，也可以单独控制</li><li>支持并联控制</li><li>主程序可以同步调用不同的外设</li></ul></li><li><p>可模拟自动化脚本（加速仿真），看程序是否有问题</p></li><li><p>不同类型的Driving       profile</p></li><li><p>程序支持暂停</p></li><li><p>程序支持断点恢复（报错后重开）（测试开始前询问）</p></li><li><p>程序支持跳步</p></li><li><p>Log易于定位问题</p></li><li><p>Online modification</p></li><li><p>Intermediate system which       can translate digital signals to different sub-system parts</p></li><li><p>Driving profile 跳出后能跳回跳出工步</p></li></ul></li><li><p>Optional     支持远程监控</p></li></ul><p>##电池包测试台架所需优势</p><ul><li>T90</li><li>易于切换大小电流（HEV&#x2F;EV)</li><li>IGBT耐用稳定</li><li>精度好</li><li>台架量程可调</li><li>温箱支持-45℃&#x2F;-50℃</li><li>设备和下位机之间通讯稳定(robustness)&#x2F;支持自重启</li><li>台架问题定位方便</li><li>温箱&#x2F;水冷 程序控制 (能够曲线输出-&gt;外设能跟得上）</li><li>绝缘监测与DUT隔离</li></ul>]]></content>
+        <content type="html"><![CDATA[<p>This page is trying to list the necessary elements that an automated test bench shall&#x2F;must have.<br>This page takes Kratzer test bench as an example.</p><span id="more"></span><p>##Interface</p><ul><li><ul><li><p>数据采集</p></li><li><ul><li></li></ul></li><li><p>通讯协议接口</p></li></ul></li><li><p>通讯协议</p></li><li><p>下位机（real-time      system)</p></li><li><ul><li>稳定（长周期循环不崩）</li><li>易于更新和复位</li></ul></li><li><p>上位机</p></li><li><ul><li><p>测量（不同频率、记录变量定义）</p></li><li><p>用户自定义</p></li><li><ul><li>易拓展（比如自定义一个SOC&#x2F;T的快充表格）</li></ul></li><li><p>外设控制时序自定义</p></li><li><ul><li>温箱、水冷、充放电机，可同时控制，也可以单独控制</li><li>支持并联控制</li><li>主程序可以同步调用不同的外设</li></ul></li><li><p>可模拟自动化脚本（加速仿真），看程序是否有问题</p></li><li><p>不同类型的Driving       profile</p></li><li><p>程序支持暂停</p></li><li><p>程序支持断点恢复（报错后重开）（测试开始前询问）</p></li><li><p>程序支持跳步</p></li><li><p>Log易于定位问题</p></li><li><p>支持总压or单体电芯电压的CC-&gt;CV</p></li><li><p>Online modification</p></li><li><p>Intermediate system which       can translate digital signals to different sub-system parts</p></li><li><p>Driving profile 跳出后能跳回跳出工步</p></li></ul></li><li><p>Optional     支持远程监控</p></li></ul><p>##电池包测试台架所需优势</p><ul><li>T90</li><li>易于切换大小电流（HEV&#x2F;EV)</li><li>IGBT耐用稳定</li><li>精度好</li><li>台架量程可调</li><li>温箱支持-45℃&#x2F;-50℃</li><li>设备和下位机之间通讯稳定(robustness)&#x2F;支持自重启</li><li>台架问题定位方便</li><li>温箱&#x2F;水冷 程序控制 (能够曲线输出-&gt;外设能跟得上）</li><li>绝缘监测与DUT隔离</li></ul>]]></content>
       
       
       <categories>
