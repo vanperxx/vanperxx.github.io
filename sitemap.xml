@@ -103,36 +103,36 @@
 
   <url>
     <loc>https://vanperxx.fun/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://vanperxx.fun/tags/Battery-Testing/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <loc>https://vanperxx.fun/tags/Test-Bench/</loc>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vanperxx.fun/tags/Suppliers/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vanperxx.fun/tags/Blogs/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://vanperxx.fun/tags/Test-Bench/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <loc>https://vanperxx.fun/tags/Battery-Testing/</loc>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -140,22 +140,22 @@
 
   
   <url>
-    <loc>https://vanperxx.fun/categories/Battery-Testing/</loc>
-    <lastmod>2023-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://vanperxx.fun/categories/Test-Automation/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://vanperxx.fun/categories/Blogs/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanperxx.fun/categories/Battery-Testing/</loc>
+    <lastmod>2023-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
